@@ -45,7 +45,7 @@ My task was creating recruter signup and
 login page  with functionality , there are 
 4 functionality in our website,find a job post
  a job and serch  a job.</p>
-                            <button><a href="https://hotwire.netlify.app/" target="blank">LIVE DEMO </a></button> <button><a href="https://github.com/amit-web/Project-hirist-clone" target="blank">CODE</a></button>
+                            <button><a href="https://hiristclone.netlify.app/" target="blank">LIVE DEMO </a></button> <button><a href="https://github.com/amit-web/Project-hirist-clone" target="blank">CODE</a></button>
                         </div>
                     </div>
                      <div className="work__img">
