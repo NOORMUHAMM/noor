@@ -81,6 +81,8 @@ const Skill = () => {
                 </div>
             </div>
             </div>
+
+            {/* BACKEND */}
               <div className="back">
          <div className="skills section" id="skills">
 
@@ -114,8 +116,20 @@ const Skill = () => {
                         </div>
                         <div className="skills__data">
                             <div className="skills__names">
-                                 <img className="skills__icon"src="express.png" alt="" height="40px" />
+                                 <img className="skills__icon"src="express.png" alt="" height="35px" />
                                 <span className="skills__name">EXPRESS</span>
+                            </div>
+                            <div className="skills__bar skills__js">
+                                
+                            </div>
+                            <div>
+                                <span className="skills__percentage"></span>
+                            </div>
+                        </div>
+                         <div className="skills__data">
+                            <div className="skills__names">
+                                <i class='bx bxl-github skills__icon'></i>
+                                <span className="skills__name">GITHUB</span>
                             </div>
                             <div className="skills__bar skills__js">
                                 
@@ -127,7 +141,7 @@ const Skill = () => {
                         <div className="skills__data">
                             <div className="skills__names">
                                 {/* <i className='bx bxl-react skills__icon'></i> */}
-                                <img className="skills__icon"src="mongo.png" alt="" height="40px" />
+                                <img className="skills__icon"src="mongo.png" alt="" height="35px" />
                                 <span className="skills__name">MongoDB</span>
                             </div>
                             <div className="skills__bar skills__ux">

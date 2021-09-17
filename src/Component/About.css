@@ -242,8 +242,12 @@ text-align: center;
 width:100%;
 }
 .detail{
-  width: 100%;
+  width: 90%;
+  margin-left: 10px;
   text-align: center;
+}
+.detail>p{
+  font-size:medium;
 }
 .about__img img{
   width: 250px;
@@ -263,8 +267,8 @@ margin-left:30px;
 
 .container{
    display: flex;
-   justify-content: center;
-   align-items: center;
+   /* justify-content: center;
+   align-items: center; */
    flex-direction: column;
      width:94%;
 }
@@ -279,7 +283,7 @@ margin-left:30px;
     grid-template-columns: repeat(2,auto);
     margin-bottom: 0;
     font-weight: 700;
-    text-align: center;
+    /* text-align: center; */
     vertical-align: middle;
     touch-action: manipulation;
     cursor: pointer;
@@ -305,7 +309,7 @@ margin-left:30px;
     
     margin-bottom: 0;
     font-weight: 700;
-    text-align: center;
+    /* text-align: center; */
     vertical-align: middle;
     touch-action: manipulation;
     cursor: pointer;
