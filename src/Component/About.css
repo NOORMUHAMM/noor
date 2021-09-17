@@ -130,7 +130,7 @@
     touch-action: manipulation;
     cursor: pointer;
     background-image: none;
-    border: none;
+    border: 1px solid rgb(199, 196, 196);
     white-space: nowrap;
    margin-bottom: 50px;
     font-size: 16px;

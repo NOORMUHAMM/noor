@@ -13,7 +13,7 @@ const About = () => {
                     <div className="detail">
                         <h2 className="about__subtitle">I'am Noor Muhammed</h2>
                         <p className="about__text">A Passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai school’s intensive and
-                        immersive learning. Look forward to joining a company where I will be able to contribute towards individual and company
+                        immersive learning. Looking forward to join a company where I will be able to contribute towards individual and company
                         growth</p>   <br />  <br />
                      <h1 style={{fontSize:"50px"}}>Follow me</h1>
                     <div className="home__social">
