@@ -52,7 +52,7 @@ login page  with functionality , there are
                    <a href="/" target="blank"><img src="https://i.ibb.co/McKvhpP/my-Port-Folio.png" alt="my-Port-Folio" border="0"/></a>
                         <div className="description"><h1>Portfolio</h1>
                         <p>In my portfolio, you can see my achievement my skill my resume and you can contact me as well.</p>
-                            <button><a href="https://hotwire.netlify.app/" target="blank">LIVE DEMO </a></button> <button><a href="https://github.com/amit-web/Project-hirist-clone" target="blank">CODE</a></button>
+                            <button><a href="https://hungry-ardinghelli-7700f4.netlify.app/" target="blank">LIVE DEMO </a></button> <button><a href="https://github.com/NOORMUHAMM/myportfolio" target="blank">CODE</a></button>
                         </div>
                     </div>
                    
