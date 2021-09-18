@@ -29,8 +29,10 @@
 .work__img img:hover{
   transform: scale(1.1);
 }
-.description{
-  text-align: center;
+.description p,h5,h2{
+  /* text-align: center; */
+  text-align: justify;
+  margin: 0 5px;
 }
 .description>button{
   width: 120px;
@@ -51,6 +53,7 @@ box-shadow: 0 4px 7px 0 rgb(42 46 59 / 16%);display: inline-block;
     font-size: 16px;
     line-height: 24px;
 margin-top: 20px;
+margin-left:10px;
 }
 .description>button>a{
  text-decoration: none;

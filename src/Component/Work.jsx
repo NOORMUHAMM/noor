@@ -9,10 +9,10 @@ const Work = () => {
                         {/* <img src="hot.png" alt=""/> */}
                         <a href="https://hotwire.netlify.app/" target="blank"><img src="https://i.ibb.co/L57bhcv/hot.png" alt="hot" border="0"/></a>
                         <div className="description"><h2>HOTWIRE</h2>
-                        <p>
+                        {/* <p>
 Hotwire is a travel website that offers airline 
 tickets, hotel rooms, rental cars, and vacation 
-packages.</p>
+packages.</p> */}
 <h5>
 Collaborative project:</h5><p>accomplished along with
  4 team members in 5 days.
@@ -32,9 +32,9 @@ functionality</p>
                       {/* <img src="https://i.ibb.co/ysXqLPX/hirist.png" alt="hirist"/> */}
                       <a href="/" target="blank"><img src="https://i.ibb.co/VBtTX9t/hirist.png" alt="hirist" border="0"/></a>
                         <div className="description"><h2>HIRIST</h2>
-                        <p>Hirist.com is a Job seeking and Job recruting 
+                        {/* <p>Hirist.com is a Job seeking and Job recruting 
 website where you can post a job and find a 
-job.</p>
+job.</p> */}
 <h5>Collaborative project:</h5>  <p>accomplished along with
  4 team members in 4 days.
 We focused on the front-end side website for
