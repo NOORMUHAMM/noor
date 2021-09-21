@@ -29,10 +29,18 @@
 .work__img img:hover{
   transform: scale(1.1);
 }
+.description{
+  margin-top: 10px;
+}
+.description>p{
+
+  height: 170px;
+}
 .description p,h5,h2{
   /* text-align: center; */
   text-align: justify;
   margin: 0 5px;
+  
 }
 .description>button{
   width: 120px;
