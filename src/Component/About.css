@@ -7,10 +7,14 @@
 }
 .about__subtitle{
   margin-bottom: var(--mb-2);
-  font-size: 50px;
+  font-size: 48px;
+    text-align: justify;
 }
 .about__text{
-  font-size: 20px;
+  font-size: 18px;
+  margin-left: 8px;
+  text-align: justify;
+  
 }
 .about__img{
   justify-self: center;
