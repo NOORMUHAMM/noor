@@ -116,6 +116,38 @@ packages.</p> */}
             </button>
           </div>
         </div>
+        <div className="work__img">
+          {/* <img src="hot.png" alt=""/> */}
+          <a href="https://noormuhamm.github.io/musicPlayer/" target="blank">
+            <img src="https://i.ibb.co/Cz5jgWn/kalle.png" alt="hot" border="0" />
+          </a>
+         
+          <div className="description">
+            <h2>Music App</h2>
+            {/* <p>
+Hotwire is a travel website that offers airline 
+tickets, hotel rooms, rental cars, and vacation 
+packages.</p> */}
+            <h5>Music App Project</h5>
+            <p>This is the music app which I created to check my skill.In this app I have addded 3 songs ,you can listen that.The main purpose of this app to create music app using javascript</p>
+            <button>
+              <a
+                href="https://noormuhamm.github.io/musicPlayer/"
+                target="blank"
+              >
+                LIVE DEMO{" "}
+              </a>
+            </button>{" "}
+            <button>
+              <a
+                href="https://github.com/NOORMUHAMM/musicPlayer"
+                target="blank"
+              >
+                CODE
+              </a>
+            </button>
+          </div>
+        </div>
         {/* <div className="work__img">
                    <a href="/" target="blank"><img src="https://i.ibb.co/McKvhpP/my-Port-Folio.png" alt="my-Port-Folio" border="0"/></a>
                         <div className="description"><h1>Portfolio</h1>
